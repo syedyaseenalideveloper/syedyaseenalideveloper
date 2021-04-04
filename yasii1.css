@@ -1,0 +1,45 @@
+.grey{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: grey;
+    padding: 20px; 
+}
+#yellow{
+    color: rgb(236, 236, 149);
+}
+.black{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(32, 29, 29);
+    padding: 20px; 
+}
+.word{
+    background-color: rgb(163, 163, 163);
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+}
+.gray{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(56, 56, 56);
+    padding: 20px; 
+}
+#gry{
+    color: rgb(102, 102, 102);
+}
+#ac{
+    width: 50%;
+    background-color: #4b494959;
+}
+#ca{
+    width: 100%;
+    background-color: #4b494959;
+}
+.next{
+    background-color: #4b494959;
+    color: white;
+}
+.previous{
+    background-color: #4b494959;
+    color: white;
+}
+submitpage{
+    color: rgb(70, 70, 70);
+}
